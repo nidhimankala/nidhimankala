@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 -->
 Hi I’m Nidhi. I’m an avid coder. I have experience in coding for the past 6 years. I have explored a variety of coding languages but I currently code extensively in python. 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nidhimankala)](https://github.com/anuraghazra/github-readme-stats)

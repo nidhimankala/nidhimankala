@@ -33,16 +33,6 @@
 🟡 **Data Visualization:** Tableau, Looker, Matplotlib, PowerBI  
 🟣 **Cloud & Big Data:** AWS, Google BigQuery, Vertex AI  
 
----
-
-## 📚 Featured Projects
-### 🧠 **Smart Captioning for Mathematical Videos using AI**
-✔ Fine-tuned **Whisper AI** for **improved transcription accuracy**  
-✔ Integrated **LLMs + RAG** for **context-aware captions**  
-
-### 🎵 **Spotify Song Popularity Analysis**
-✔ Analyzed **100K+ songs** to find trends in **danceability, energy, tempo**  
-✔ Developed **predictive models (91.3% accuracy)** for streaming optimization  
 
 ---
 

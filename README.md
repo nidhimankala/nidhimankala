@@ -4,7 +4,7 @@
 ## 🎯 About Me
 💡 Passionate about **Data Science, Machine Learning, and Analytics**  
 🎓 **Master of Science in Data Science** – Northeastern University, Boston  
-📊 Experienced in **Python, SQL, analysis, Machine Learning, and Data Visualization**  
+📊 Experienced in **Python, SQL, Analysis, Machine Learning, and Data Visualization**  
 🌍 Always eager to explore new innovations and sustainability solutions!  
 
 ---

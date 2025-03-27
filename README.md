@@ -1,6 +1,5 @@
 # 🌟 Nidhi Mankala | Data Scientist 🚀
 
-![Profile Banner](https://via.placeholder.com/1000x200/007acc/ffffff?text=Welcome+to+my+GitHub!)
 
 ## 🎯 About Me
 💡 Passionate about **Data Science, Machine Learning, and Analytics**  

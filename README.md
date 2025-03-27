@@ -37,6 +37,6 @@
 ---
 
 ## 📫 Let's Connect!
-📧 **Email:** nidhi.mankala@example.com  
-🔗 **LinkedIn:** [linkedin.com/in/nidhi-mankala](https://linkedin.com/in/nidhi-mankala)  
+📧 **Email:** nidhimankala30@gmail.com  
+🔗 **LinkedIn:** [linkedin.com/in/nidhimankala](https://www.linkedin.com/in/nidhimankala/) 
 

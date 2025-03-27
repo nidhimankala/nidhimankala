@@ -1,18 +1,52 @@
+# 🌟 Nidhi Mankala | Data Scientist 🚀
 
+![Profile Banner](https://via.placeholder.com/1000x200/007acc/ffffff?text=Welcome+to+my+GitHub!)
 
-<!--
-**nidhimankala/nidhimankala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎯 About Me
+💡 Passionate about **Data Science, Machine Learning, and Analytics**  
+🎓 **Master of Science in Data Science** – Northeastern University, Boston  
+📊 Experienced in **Python, SQL, analysis, Machine Learning, and Data Visualization**  
+🌍 Always eager to explore new innovations and sustainability solutions!  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Hi I’m Nidhi. I’m an avid coder. I have experience in coding for the past 6 years. I have explored a variety of coding languages but I currently code extensively in python. 
+## 💼 Experience
+### 📌 **NBCUniversal - Peacock (Data Science Intern)**
+🔹 Built an **XGBoost model** predicting first-year churn with **91.3% accuracy**  
+🔹 Conducted **EDA on 1.4M+ subscriptions** to uncover key churn drivers  
+🔹 Automated churn analysis, reducing manual effort and increasing efficiency  
+
+### 📌 **Wayfair (Business Analyst, Supply Chain)**
+🔹 Developed a **Looker Studio dashboard** optimizing supply chain cost analysis  
+🔹 Built a **K-means clustering model** for rate optimization in procurement  
+🔹 Automated data pipelines using **Python and SQL** for improved efficiency  
+
+### 📌 **Halliburton (Data Scientist)**
+🔹 Analyzed **70,000+ crude oil production data points** using time-series modeling  
+🔹 Developed **ARIMA models** for forecasting with an RMSE of **0.43**  
+
+---
+
+## 🛠 Skills
+🔵 **Programming:** Python, SQL,   
+🟢 **Libraries & Frameworks:** NumPy, Pandas, SciPy, Scikit-Learn, TensorFlow, Keras, OpenCV, PyTorch
+🟡 **Data Visualization:** Tableau, Looker, Matplotlib, PowerBI  
+🟣 **Cloud & Big Data:** AWS, Google BigQuery, Vertex AI  
+
+---
+
+## 📚 Featured Projects
+### 🧠 **Smart Captioning for Mathematical Videos using AI**
+✔ Fine-tuned **Whisper AI** for **improved transcription accuracy**  
+✔ Integrated **LLMs + RAG** for **context-aware captions**  
+
+### 🎵 **Spotify Song Popularity Analysis**
+✔ Analyzed **100K+ songs** to find trends in **danceability, energy, tempo**  
+✔ Developed **predictive models (91.3% accuracy)** for streaming optimization  
+
+---
+
+## 📫 Let's Connect!
+📧 **Email:** nidhi.mankala@example.com  
+🔗 **LinkedIn:** [linkedin.com/in/nidhi-mankala](https://linkedin.com/in/nidhi-mankala)  
 

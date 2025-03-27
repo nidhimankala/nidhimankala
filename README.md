@@ -28,7 +28,8 @@
 
 ## 🛠 Skills
 🔵 **Programming:** Python, SQL   
-🟢 **Libraries & Frameworks:** NumPy, Pandas, SciPy, Scikit-Learn, TensorFlow, Keras, OpenCV, PyTorch
+🟢 **Libraries & Frameworks:** NumPy, Pandas, SciPy, Scikit-Learn, TensorFlow, Keras, OpenCV, PyTorch                                                                         
+
 🟡 **Data Visualization:** Tableau, Looker, Matplotlib, PowerBI  
 🟣 **Cloud & Big Data:** AWS, Google BigQuery, Vertex AI  
 

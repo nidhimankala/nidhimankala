@@ -1,4 +1,4 @@
-# 🌟 Nidhi Mankala | Data Scientist 🚀
+# 🌟 Nidhi Mankala | Data Scientist | Analyst 🚀
 
 
 ## 🎯 About Me
